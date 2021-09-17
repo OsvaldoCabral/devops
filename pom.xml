@@ -82,9 +82,9 @@
 		</dependency>
 		
 		<dependency>
-			<groupId>org.sonarsource.scanner.maven</groupId>
-			<artifactId>sonar-maven-plugin</artifactId>
-			<version>3.8.0.2131</version>
+		    <groupId>org.sonarsource.scanner.maven</groupId>
+		    <artifactId>sonar-maven-plugin</artifactId>
+		    <version>3.9.0.2155</version>
 		</dependency>
 	</dependencies>
 	<build>
